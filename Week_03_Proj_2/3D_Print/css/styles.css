@@ -1,0 +1,112 @@
+/* Jorge M., 2022-9-21 - 2022-9-25
+ * Assignment 02 - 3D Printing Class Site
+ * Works Cited:
+ * "Color Names — HTlorML Co Codes." Dixon & Moe, 2022, https://htmlcolorcodes.com/color-names/. Accessed 14 September, 2022.
+ */
+
+body {																/* Body */
+	font-family: Helvetica, Arial, sans-serif;						/* Font */
+	color: #3864A5;													/* Font colour */
+	background-color: Silver;										/* BG Colour */
+	font-size: 16px;												/* Font Size */
+}
+
+h1 {																/* Header 1 */
+	font-family: Impact;											/* Font */
+	font-size: 50px;												/* Font size */
+	text-align: center;												/* Centers text */
+	color: LawnGreen;												/* Font Colour */
+	background-color: #1A1C2B;										/* BG Colour */
+	margin-top: 0%;													/* Cuts margin */
+	margin-bottom: 0%;												/* Cuts margin */
+	padding: 3%;													/* Adds padding */
+}
+
+h2 {																/* Header 2 */
+	font-family: Impact;											/* Font */
+	font-size: 30px;												/* Font Size */
+	color: LawnGreen;												/* Font Colour */
+	/* background-color: #202020;										/* BG Colour */
+	padding: 0.5%;													/* Adds Padding */
+}
+
+h3 {																/* Header 3 */
+	font-family: Impact;											/* Font */
+	color: DarkBlue;												/* Font Colour */
+	/* background-color: #5599FF; 										/* BG Colour */
+	font-size: 30px;												/* Font Size */
+	/* text-decoration: underline;										/* Underlines Text */
+	margin-left: 5%;												/* Margin */
+}
+
+h4 {																/* Header 4 */
+	font-family: Impact;											/* Font */
+	color: DarkBlue;												/* Font Colour */
+	font-size: 30px;												/* Font size */
+	/* text-decoration: underline;										/* Underlines Text */
+	text-align: right;												/* Alligns to Right */
+	margin-right: 10%;												/* Adds Margin */
+}
+
+h4 a {
+	color: #3864A5;													/* Font Colour */
+	font-style: italic;												/* Gives Italics */
+}
+
+p {																	/* Paragraphs */
+	margin-left: 7%;												/* Margin */
+	margin-right: 5%												/* Margin */
+}
+
+li {																/* List Items */
+	color: #5599FF;													/* Font Colour */
+	background-color: #1A1C2B;										/* BG Colour */
+	text-align: center;												/* Aligns to center */
+	margin-left: 15%;												/* Adds Margin */
+	margin-right: 20%;												/* Adds Margin */
+	font-weight: bold;												/* Text Bold */
+}
+
+hr {																/* Horizontal Rule */
+	padding-bottom: 5px;											/* Adds Padding */
+	background-color: #202020;										/* Changes Colour */
+	margin-top: 0%;													/* Adds Margin */
+}
+
+footer {															/* Footer */
+	font-size: 20px;												/* Font Size */
+	text-align: center;												/* Aligns to Center */
+	color: Lawngreen;												/* Font Colour */
+	background-color: #1A1C2B;										/* BG Colour */
+	background-image: url('../images/sphere-g304e06e70_1280.png');	/* Adds Image to background */
+	background-repeat: no-repeat;									/* Doesn't repeat image */
+	margin-top: 2%;													/* Margins */
+	padding: 3%;													/* Adds Pading */
+}
+
+#siteLinks {														/* ID siteLinks */
+	text-align: center;												/* Aligns to Center */
+	background-color: #202020;										/* BG Colour */
+	margin-top: 0%;													/* Removes Margin */
+	padding-bottom: 3%;												/* Adds Padding */
+}
+
+#siteLinks a {														/* Anchors in siteLinks */
+	color: LawnGreen;												/* Font Colour */
+	padding-left: 0.5%;												/* Adds Padding */
+	padding-right: 0.5%;											/* Adds Padding */
+}
+
+#sendOffSite {														/* ID sendOffsite */
+	text-align: center;												/* Centers text */
+	font-weight: Bold;												/* Makes Bold */
+	font-style: Italic;												/* Makes Italic */
+}
+
+.centerImage {														/* Class centerImage */
+	margin-left: 30%;												/* Margins to center */
+}
+
+.centerText {														/* Class centerText */
+	text-align: center;												/* Alligns to center */
+}
