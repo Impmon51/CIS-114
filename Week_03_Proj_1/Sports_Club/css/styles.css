@@ -1,0 +1,54 @@
+/* Jorge M., 2022-9-21
+ * Lab 4: Sports Club
+ * Works Cited:
+ * "Color Names — HTlorML Co Codes." Dixon & Moe, 2022, https://htmlcolorcodes.com/color-names/. Accessed 14 September, 2022.
+ */
+
+body {																/* Body */
+	font-family: Helvetica, Arial, sans-serif;						/* Font */
+	color: Maroon;													/* Font colour */
+	background-color: Wheat;										/* BG Colour */
+	font-size: 16px;												/* Font Size */
+	margin-left: 5%;												/* Margins */
+	margin-right: 5%;												/* Margins */
+	margin-bottom: 5%;												/* Margins */
+}
+
+img {																/* Image */
+	margin-left: 34%;												/* Margin */
+}
+
+h3 {																/* Header 3 */
+	color: Orangered;												/* Font Colour */
+	font-size: 30px;												/* Font Size */
+	text-decoration: underline;										/* Underlines Text */
+}
+
+p {																	/* Paragraph */
+	margin-left: 2%;												/* Margin */
+}
+
+li {																/* List Item */
+	margin-left: 4%;												/* Margin */
+	font-weight: bold;												/* Makes Text Bold */
+}
+
+#pageTitle {														/* ID pageTitle */
+	font-size: 50px;												/* Font Size */
+	text-align: center;												/* Aligns To Center */
+}
+
+#siteLinks {														/* ID siteLinks */
+	text-align: center;												/* Aligns to Center */
+	color: Wheat;													/* Font Colour */
+	background-color: Maroon;										/* BG Colour */
+}
+
+#sendOffsite {														/* ID sendOffsite */
+	text-align: center;												/* Aligns Text to Center */
+}
+
+#importantNews {													/* ID importantNews */
+	text-decoration: underline;										/* Underlines Text */
+	font-weight: bold;												/* Makes Text Bold */
+}
